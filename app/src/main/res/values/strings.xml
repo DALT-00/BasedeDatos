@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasedeDatos</string>
+    <string name="codigo">Codigo de Articulo:</string>
+    <string name="descrip">Descripcion:</string>
+    <string name="precio">Precio:</string>
+    <string name="boton1">Registrar Producto</string>
+    <string name="boton2">Consulta por Codigo</string>
+    <string name="boton3">Conculta por Descripcion</string>
+    <string name="boton4">Baja por Codigo</string>
+    <string name="boton5">Modificacion</string>
+</resources>
